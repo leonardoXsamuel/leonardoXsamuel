@@ -1,9 +1,8 @@
 # Olá, me chamo Leonardo Samuel! 
-## Bem vindo ao meu perfil do GitHub 👋
 
-- 🔭 Atualmente estou trabalhando na Actionline como Control Desk/Assistente Admnistrativo
-- 🌱 Atualmente estou aprendendo Java, Spring Boot, SQL e outras ferramentas focadas em BACK-END
-- 👯 Estou procurando colaborar em projetos open source para me desenvolver e conseguir entrar para a área
+- Atualmente estou trabalhando na Actionline como Control Desk/Assistente Admnistrativo
+- Atualmente estou aprendendo Java, Spring Boot, SQL e outras ferramentas focadas em BACK-END
+- Estou procurando colaborar em projetos open source para me desenvolver e conseguir entrar para a área
 
 ## Ferramentas e Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="40" height="40"/>
