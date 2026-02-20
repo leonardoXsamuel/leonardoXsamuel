@@ -1,7 +1,7 @@
 # Olá, me chamo Leonardo Samuel! 
 
 - Atualmente estou trabalhando na Actionline como Control Desk/Assistente Admnistrativo
-- No momento estou aprendendo Java, Spring Boot, SQL e outras ferramentas focadas em BACK-END
+- No momento estou aprendendo C#, .NET, Java, Spring Boot, SQL e outras ferramentas focadas em BACK-END
 - Estou procurando colaborar em projetos open source para me desenvolver e conseguir meu primeiro estágio
 
 ## Ferramentas e Tecnologias
