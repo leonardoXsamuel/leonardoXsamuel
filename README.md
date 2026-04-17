@@ -4,7 +4,7 @@
 - No momento estou aprendendo C#, .NET, Java, Spring Boot, SQL e outras ferramentas focadas em BACK-END
 - Estou procurando colaborar em projetos open source para me desenvolver
 
-<p align="center">
+<p align="center" style="white-space: nowrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40"/>
